@@ -3,3 +3,5 @@ def is_acceptable_password(password: str) -> bool:
 print('kjkjk')
 pass
 input()
+pass
+print(123123123123123123132123)
